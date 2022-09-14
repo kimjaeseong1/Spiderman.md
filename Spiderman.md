@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Name Andrew
 
 # Amazing Spider-Man 1
